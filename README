@@ -1,0 +1,10 @@
+COMANDOS DE EJECUCION
+
+TicTacToe Games
+python3 models/TicTacToe/TicTacToeGame.py
+
+Main
+python3 main.py
+
+Ejemplo modals
+python3 models/CloningExample.py
